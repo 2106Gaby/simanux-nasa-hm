@@ -1,0 +1,24 @@
+{
+  "name": "simanux-nasa-hm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2106Gaby/simanux-nasa-hm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2106Gaby/simanux-nasa-hm/issues"
+  },
+  "homepage": "https://github.com/2106Gaby/simanux-nasa-hm#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
